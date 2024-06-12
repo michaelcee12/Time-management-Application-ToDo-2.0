@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "167155564246",
+    "project_id": "studenttimemgt",
+    "storage_bucket": "studenttimemgt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167155564246:android:6ac2d6fd88da59b4fb5377",
+        "android_client_info": {
+          "package_name": "com.example.to_do_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO-z6nZ-WSy6JmFGn39X7y1EplNGKYj1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
